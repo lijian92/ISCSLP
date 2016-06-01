@@ -79,7 +79,6 @@ while(<STDIN>) {
         }
       } else {
         $A[$x] = $map{$a}; 
-        printf("$")
       }
     }
   }
