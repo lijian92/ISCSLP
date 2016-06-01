@@ -1,0 +1,4 @@
+layout=example
+header1= ************************* OUTPUT **********************************\n
+F0[0] F0: %5.2f  
+prob_voice[0] voiced: %f\n

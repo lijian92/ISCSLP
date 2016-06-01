@@ -1,5 +1,0 @@
-sil
-a1 a:1 a:N1 aN1 am1 an1 ar1 e1 e:1 eN1 em1 en1 er1 i1 i:1 iN1 im1 in1 ir1 o1 oN1 om1 on1 or1 ri:1 ta1 ta:1 u1 u:1 uN1 um1 ur1 y:1 yn1
-@p2 a?2 aN2 am2 ap2 e?2 eN2 em2 ep2 i?2 iN2 im2 ip2 o?2 oN2 om2 op2 ri?2 ta?2 u?2 up2 y?2
-@p3 a?3 aN3 am3 ap3 e?3 eN3 em3 ep3 i?3 iN3 im3 ip3 o?3 oN3 om3 op3 ri?3 ta?3 u?3 up3 y?3
-a4 a:4 aN4 am4 an4 ao4 ar4 au4 e4 e:4 eN4 em4 en4 er4 i4 i:4 iN4 im4 in4 ir4 o4 o:4 oN4 om4 on4 or4 ri:4 ta:4 u4 u:4 uN4 um4 ur4 y:4 yn4
